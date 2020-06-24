@@ -50,8 +50,6 @@ pair<node*,node*> Tree()
     root1->left = new node(2);
     root1->right = new node(3);
     
-    
-    
     //Tree 2
     node* root2 = new node(1);
     root2->left = new node(3);
