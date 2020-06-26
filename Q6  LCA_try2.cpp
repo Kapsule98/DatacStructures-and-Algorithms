@@ -1,3 +1,11 @@
+/* Author : Kapil
+--------------------------------
+    Lowest common ancestor
+--------------------------------
+Time : O(N)
+Extra space : none
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
