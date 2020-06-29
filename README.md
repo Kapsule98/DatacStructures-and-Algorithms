@@ -11,3 +11,5 @@ Q5) Count no. of paths in a tree that corresponds to a given sum<br>
 Q6) Find Lowest common Ancestor of 2 nodes in Binary tree<br>
 Q7) Print Left View of Binary tree<br>
 Q8) Print Spiral traversal of Binary tree<br>
+Q9) Modify each node such that it contains sum of all nodes in left subtree<br>
+Q10) Print Vertical traversal of tree (left to right)<br>
