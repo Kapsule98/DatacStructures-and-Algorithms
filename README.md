@@ -15,3 +15,5 @@ Q9) Modify each node such that it contains sum of all nodes in left subtree<br>
 Q10) Print Vertical traversal of tree (left to right)<br>
 Q11) Print Diameter of a given tree<br>
 Q12) Find number of turns required to reach from one given node to another given node<br>
+Q13) Print sum of max node in left subtree and min node in right subtree<br>
+Q14) Check if a tree is height balanced <br>
