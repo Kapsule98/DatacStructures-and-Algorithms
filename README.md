@@ -22,6 +22,8 @@ Q14) Check if a tree is height balanced <br>
 <br>
 BFS<br>
 DFS<br>
+Q1) Print all nodes k levels away from a node in graph<br>
+Q2) Given a graph and 2 nodes find if there is a path between the 2 nodes<br>
 
 
 
